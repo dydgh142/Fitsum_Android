@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Fitsum.iml" filepath="$PROJECT_DIR$/.idea/modules/Fitsum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Fitsum.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Fitsum.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Fitsum.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Fitsum.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Fitsum.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Fitsum.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Fitsum.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Fitsum.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/posenet/Fitsum.posenet.iml" filepath="$PROJECT_DIR$/.idea/modules/posenet/Fitsum.posenet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/posenet/Fitsum.posenet.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/posenet/Fitsum.posenet.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/posenet/Fitsum.posenet.main.iml" filepath="$PROJECT_DIR$/.idea/modules/posenet/Fitsum.posenet.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/posenet/Fitsum.posenet.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/posenet/Fitsum.posenet.unitTest.iml" />
+    </modules>
+  </component>
+</project>
