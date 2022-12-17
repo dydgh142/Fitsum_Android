@@ -23,9 +23,36 @@
 ---
 ## Result
 
+### FirstPage - 로그인, 회원가입
+<div align=center> <img src="./images/first.png" style="width:630px" height="400px"></div>
+
+<br>
+
+### Find Password, ID - 아이디찾기, 비밀번호 찾기
+<div align=center> <img src="./images/find.png" style="width:630px" height="400px"></div>
+
+<br>
+
+### MainPage - 메인화면 및 운동화면
+<div align=center> <img src="./images/main.png" style="width:930px" height="400px"></div>
+
+<br>
+
+### QuestPage - 퀘스트화면 
+<div align=center> <img src="./images/quest.png" style="width:380px" height="400px"></div>
+
+<br>
 
 
+### BoardPage - 게시판화면 
+<div align=center> <img src="./images/board.png" style="width:380px" height="400px"></div>
 
+<br>
+
+### ProfilePage - 프로필화면 
+<div align=center> <img src="./images/profile.png" style="width:200px" height="400px"></div>
+
+<br>
 
 ---
 
